@@ -1,0 +1,14 @@
+# requirements.txt — qgan_zoufal
+# Zoufal, Lucchi, Woerner - npj Quantum Information (2019)
+
+# ── Quantum ───────────────────────────────────────────────────
+qiskit>=2.0,<3.0
+qiskit-aer>=0.15,<1.0
+
+
+# ── Numerica / scientifica ────────────────────────────────────
+numpy>=1.24
+scipy>=1.10
+
+# ── Visualizzazione ───────────────────────────────────────────
+matplotlib>=3.7
